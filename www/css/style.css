@@ -96,5 +96,14 @@
         font-size: 30px;
         position:absolute; top:450px; left:190px; width:80px; height:40px;   
     }
+
+    #mycanvas2{
+        color: #ffffff;
+        font-size: 40px;
+        text-align: center;
+        position:absolute; top:500px; 
+        left:50px; right:10px;
+    }
+
     
     input[type=number] {text-align: right;}
